@@ -1,0 +1,36 @@
+body {
+    background-color: #faf9fc;
+    font-family: Open Sans;
+}
+
+.button {
+    display: block;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 40px;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+nav {
+    list-style-type: none;
+}
+
+li {
+    padding: 5px 0;
+}
+
+a {
+    color: #69696a;
+    text-decoration: none;
+}
+
+#lorem {
+    border-left: 3px solid #69696a;
+    padding-left: 10px;
+    color: #69696a;
+}
